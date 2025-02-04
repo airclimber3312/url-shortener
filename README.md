@@ -48,7 +48,7 @@ A full-stack URL shortening service built with React, Node.js, TypeScript, and D
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/airclimber3312/url-shortener.git
 cd url-shortener
 ```
 
